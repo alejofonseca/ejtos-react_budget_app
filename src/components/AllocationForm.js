@@ -45,7 +45,7 @@ const AllocationForm = (props) => {
                         <option value="Marketing" name="marketing">Marketing</option>
                         <option value="Sales" name="Sales">Sales</option>
                         <option value="Finance" name="Finance">Finance</option>
-                        <option value="HR" name="HR">HR</option>
+                        <option value="Human Resource" name="HR">HR</option>
                         <option value="IT" name="IT">IT</option>
                         <option value="Admin" name="Admin">Admin</option>
                     </select>

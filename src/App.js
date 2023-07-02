@@ -24,14 +24,10 @@ const App = () => {
                 </div>
 
                 <h3 className='mt-3'>Allocation</h3>
-                <div className='row mt-3'>
-                    <ExpenseList />
-                </div>
+                <div className='row mt-1'><ExpenseList /></div>
 
                 <h3>Change allocation</h3>
-                <div className='row mt-3'>
-                    <AllocationForm />
-                </div>
+                <div className='row mt-1'><AllocationForm /></div>
             </div>
         </AppProvider>
     );
